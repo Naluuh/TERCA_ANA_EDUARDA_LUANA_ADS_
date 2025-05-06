@@ -1,0 +1,14 @@
+C:\Users\david\exerc4\bin\Debug\net9.0\exerc4.exe
+C:\Users\david\exerc4\bin\Debug\net9.0\exerc4.deps.json
+C:\Users\david\exerc4\bin\Debug\net9.0\exerc4.runtimeconfig.json
+C:\Users\david\exerc4\bin\Debug\net9.0\exerc4.dll
+C:\Users\david\exerc4\bin\Debug\net9.0\exerc4.pdb
+C:\Users\david\exerc4\obj\Debug\net9.0\exerc4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\exerc4\obj\Debug\net9.0\exerc4.AssemblyInfoInputs.cache
+C:\Users\david\exerc4\obj\Debug\net9.0\exerc4.AssemblyInfo.cs
+C:\Users\david\exerc4\obj\Debug\net9.0\exerc4.csproj.CoreCompileInputs.cache
+C:\Users\david\exerc4\obj\Debug\net9.0\exerc4.dll
+C:\Users\david\exerc4\obj\Debug\net9.0\refint\exerc4.dll
+C:\Users\david\exerc4\obj\Debug\net9.0\exerc4.pdb
+C:\Users\david\exerc4\obj\Debug\net9.0\exerc4.genruntimeconfig.cache
+C:\Users\david\exerc4\obj\Debug\net9.0\ref\exerc4.dll

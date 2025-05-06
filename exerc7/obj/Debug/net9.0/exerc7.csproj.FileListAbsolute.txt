@@ -1,0 +1,14 @@
+C:\Users\david\exerc7\bin\Debug\net9.0\exerc7.exe
+C:\Users\david\exerc7\bin\Debug\net9.0\exerc7.deps.json
+C:\Users\david\exerc7\bin\Debug\net9.0\exerc7.runtimeconfig.json
+C:\Users\david\exerc7\bin\Debug\net9.0\exerc7.dll
+C:\Users\david\exerc7\bin\Debug\net9.0\exerc7.pdb
+C:\Users\david\exerc7\obj\Debug\net9.0\exerc7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\exerc7\obj\Debug\net9.0\exerc7.AssemblyInfoInputs.cache
+C:\Users\david\exerc7\obj\Debug\net9.0\exerc7.AssemblyInfo.cs
+C:\Users\david\exerc7\obj\Debug\net9.0\exerc7.csproj.CoreCompileInputs.cache
+C:\Users\david\exerc7\obj\Debug\net9.0\exerc7.dll
+C:\Users\david\exerc7\obj\Debug\net9.0\refint\exerc7.dll
+C:\Users\david\exerc7\obj\Debug\net9.0\exerc7.pdb
+C:\Users\david\exerc7\obj\Debug\net9.0\exerc7.genruntimeconfig.cache
+C:\Users\david\exerc7\obj\Debug\net9.0\ref\exerc7.dll
